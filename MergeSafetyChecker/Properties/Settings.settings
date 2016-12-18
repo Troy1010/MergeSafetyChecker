@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MergeSafetyChecker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SourceFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\TMinus1010\Projects\Coding\C#\MergeSafetyChecker\ListOfMergedOblivionPlugins.txt</Value>
+    </Setting>
+    <Setting Name="DataFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Oblivion Files\Oblivion\Data</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
